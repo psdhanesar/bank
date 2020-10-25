@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 test file
 new addition for another stash
+=======
+test file it is being modified
+>>>>>>> Stashed changes
